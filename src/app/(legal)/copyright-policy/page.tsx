@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Copyright Policy — MaujiTV",
-  description: "How MaujiTV protects intellectual property and handles infringement notices.",
+  title: "Copyright Policy — TadkaTV",
+  description: "How TadkaTV protects intellectual property and handles infringement notices.",
 };
 
 export default function CopyrightPolicyPage() {
@@ -34,7 +34,7 @@ export default function CopyrightPolicyPage() {
           <section id="commitment">
             <h2><span className="num">01</span> Ownership</h2>
             <p>
-              All movies, series, artwork, and branding available on MaujiTV are owned by MaujiTV, its content partners, or their respective licensors and are protected by copyright law.
+              All movies, series, artwork, and branding available on TadkaTV are owned by TadkaTV, its content partners, or their respective licensors and are protected by copyright law.
             </p>
           </section>
 
@@ -48,14 +48,14 @@ export default function CopyrightPolicyPage() {
           <section id="permitted-use">
             <h2><span className="num">03</span> Prohibited Use</h2>
             <p>
-             You may not record, download (outside in-app offline downloads, where offered), copy, distribute, publicly display, or create derivative works from MaujiTV content.
+             You may not record, download (outside in-app offline downloads, where offered), copy, distribute, publicly display, or create derivative works from TadkaTV content.
             </p>
           </section>
 
           <section id="notices">
             <h2><span className="num">04</span>Reporting Infringement</h2>
             <p>
-             If you believe your copyrighted work has been used on MaujiTV without authorization, email support@dharvix.com with details of the content and your ownership claim.
+             If you believe your copyrighted work has been used on TadkaTV without authorization, email support@dharvix.com with details of the content and your ownership claim.
             </p>
           </section>
 

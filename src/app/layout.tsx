@@ -2,9 +2,9 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'MaujiTV — Coming Soon',
+  title: 'TadkaTV — Coming Soon',
   description:
-    'MaujiTV — Your next favourite OTT destination. Coming soon on Web, Android & iOS.',
+    'TadkaTV — Your next favourite OTT destination. Coming soon on Web, Android & iOS.',
 };
 
 export default function RootLayout({

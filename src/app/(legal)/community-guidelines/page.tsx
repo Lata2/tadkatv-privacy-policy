@@ -1,9 +1,9 @@
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Community Guidelines — MaujiTV',
+  title: 'Community Guidelines — TadkaTV',
   description:
-    "The standards that keep MaujiTV's community welcoming for everyone.",
+    "The standards that keep TadkaTV's community welcoming for everyone.",
 };
 
 export default function CommunityGuidelinesPage() {
@@ -54,7 +54,7 @@ export default function CommunityGuidelinesPage() {
               <span className="num">01</span> Purpose
             </h2>
             <p>
-              These guidelines describe acceptable use of MaujiTV so the service
+              These guidelines describe acceptable use of TadkaTV so the service
               stays safe and reliable for everyone.
             </p>
           </section>

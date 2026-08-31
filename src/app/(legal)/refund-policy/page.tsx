@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Refund & Cancellation Policy — MaujiTV",
-  description: "Understand how billing, cancellations and refunds work on MaujiTV.",
+  title: "Refund & Cancellation Policy — TadkaTV",
+  description: "Understand how billing, cancellations and refunds work on TadkaTV.",
 };
 
 export default function RefundPolicyPage() {
@@ -43,7 +43,7 @@ export default function RefundPolicyPage() {
           <section id="billing-cycle">
             <h2><span className="num">02</span> Refund Eligibility</h2>
             <p>
-              Subscription fees are generally non-refundable once a billing period has started, except where required by law or at MaujiTV’s discretion for genuine billing errors.
+              Subscription fees are generally non-refundable once a billing period has started, except where required by law or at TadkaTV’s discretion for genuine billing errors.
             </p>
           </section>
 

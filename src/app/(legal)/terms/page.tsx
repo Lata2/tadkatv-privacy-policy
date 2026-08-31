@@ -1,9 +1,9 @@
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Terms & Conditions — MaujiTV',
+  title: 'Terms & Conditions — TadkaTV',
   description:
-    "Read the Terms & Conditions for using MaujiTV's streaming service.",
+    "Read the Terms & Conditions for using TadkaTV's streaming service.",
 };
 
 export default function TermsPage() {
@@ -25,7 +25,7 @@ export default function TermsPage() {
               <a href="#acceptance">Acceptance of These Terms</a>
             </li>
             <li>
-              <a href="#about">About  MaujiTV</a>
+              <a href="#about">About  TadkaTV</a>
             </li>
             <li>
               <a href="#eligibility">Eligibility &amp; Your Account</a>
@@ -69,7 +69,7 @@ export default function TermsPage() {
               <span className="num">01</span> Acceptance of These Terms
             </h2>
             <p>
-              By creating an account or using MaujiTV, you agree to these Terms
+              By creating an account or using TadkaTV, you agree to these Terms
               & Conditions. If you do not agree, please do not use the app
             </p>
           </section>
@@ -79,7 +79,7 @@ export default function TermsPage() {
               <span className="num">02</span> The Service
             </h2>
             <p>
-              MaujiTV is a subscription video streaming service offering movies
+              TadkaTV is a subscription video streaming service offering movies
               and series across multiple profiles, including a Kids Mode with
               age-appropriate content.
             </p>
@@ -162,7 +162,7 @@ export default function TermsPage() {
             </h2>
             <p>
               The service is provided as it is. To the extent permitted by law,
-              MaujiTV is not liable for indirect or incidental damages arising
+              TadkaTV is not liable for indirect or incidental damages arising
               from use of the app.
             </p>
           </section>

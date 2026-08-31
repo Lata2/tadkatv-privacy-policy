@@ -7,10 +7,10 @@ export default function LegalHeader() {
       <Link href="/" style={{ textDecoration: 'none' }}>
         <div className="brand">
           <span className="mark mark-img">
-            <Image src="/assets/logo.png" alt="MaujiTV logo" width={40} height={40} priority />
+            <Image src="/assets/logo.png" alt="TadkaTV logo" width={40} height={40} priority />
           </span>
           <span style={{ color: 'var(--ink)' }}>
-            MaujiTV
+            TadkaTV
           </span>
         </div>
       </Link>

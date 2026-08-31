@@ -35,7 +35,7 @@ export default function ContactPage() {
         <h1 className="page-title">Contact Us</h1>
         <p className="page-updated">
           Support, billing, press &amp; partnerships — one place to reach the
-          MaujiTV team.
+          TadkaTV team.
         </p>
       </div>
 
